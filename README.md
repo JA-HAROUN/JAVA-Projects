@@ -1,9 +1,11 @@
 JAVA Projects:
 
 [EASY]
+
 1- GPA Calculator
 
 [INTERMEDIATE]
+
 1- Multithreading-Chat-Application:
     📌 Concepts: Sockets, Threads
     🔹 Create a server-client chat system where multiple users can communicate using                      multithreading and sockets.
