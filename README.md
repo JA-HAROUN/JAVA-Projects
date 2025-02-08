@@ -1,4 +1,5 @@
 JAVA Projects:
+
 [EASY]
 1- GPA Calculator
 
